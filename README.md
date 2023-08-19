@@ -1,5 +1,5 @@
-
-Application Engineer | UI Developer | React | Hooks | Redux | 
+Hi there 👋, my name is Tejaswini.                                                                                                            
+Application Engineer | UI Developer | React | Hooks | Redux 
 Skills: REACTJS / JS / HTML / CSS / Bootstrap / Redux /
 
 - 👋 Hi, I’m Tejaswini
@@ -16,5 +16,3 @@ Skills: REACTJS / JS / HTML / CSS / Bootstrap / Redux /
 tejz-dev3/tejz-dev3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
