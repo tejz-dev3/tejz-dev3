@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate frontend developer from India</h3>
 
 Application Engineer | UI Developer | React | Hooks | Redux </br>
-  Skills: REACTJS / JS / HTML / CSS / Bootstrap / Redux 
+  Skills: REACTJS / JS / HTML / CSS / Bootstrap / Redux / Material-UI  / Tailwind CSS /
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejz-dev3&label=Profile%20views&color=0e75b6&style=flat" alt="tejz-dev3" /> </p>
 
