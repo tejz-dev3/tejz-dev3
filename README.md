@@ -4,10 +4,10 @@
 
 ![logo](https://github.com/tejz-dev3/tejz-dev/blob/main/linkedin%20bgimg.jpeg)
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
-<h3 align="center">A Passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend developer from India</h3>
 
-Application Engineer | UI Developer | React | Hooks | Redux </br>
-  Skills: REACTJS / JS / HTML / CSS / Bootstrap / Redux / Material-UI  / Tailwind CSS /
+Application Engineer | UI Developer | React | Hooks | Nextjs | Typescript | Redux </br>
+  Skills: REACTJS / JS / HTML / CSS / Javascript | Nextjs | Typescript | Bootstrap / Redux / Material-UI  / Tailwind CSS /
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejz-dev3&label=Profile%20views&color=0e75b6&style=flat" alt="tejz-dev3" /> </p>
 
